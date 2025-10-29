@@ -95,7 +95,9 @@ Formulário para cadastro de voluntários, com validação de campos e máscaras
 
 2. Abra a pasta do projeto
 
+```
 cd ONG-Esperanca-Viva
+```
 
 3. Execute o arquivo principal:
 
