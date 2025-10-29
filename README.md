@@ -35,6 +35,7 @@ ONG/
 │ ├── imagem-1.jpg
 │ ├── imagem-2.bmp
 │ └── imagem-3.png
+| └── imagem-4.webp
 ├── js/
 │ └── script.js
 ├── cadastro.html
