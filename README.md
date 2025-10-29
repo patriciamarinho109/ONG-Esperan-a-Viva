@@ -3,6 +3,10 @@
 Plataforma web desenvolvida com o objetivo de oferecer presença digital profissional para ONGs, permitindo gerenciar atividades, divulgar projetos, captar recursos e engajar voluntários.  
 Projeto realizado como parte da disciplina de **Desenvolvimento Front-End**, aplicando conceitos de **HTML5**, **CSS3** e **JavaScript**.
 
+Link do Site no GitHub Pages:
+
+https://patriciamarinho109.github.io/ONG-Esperan-a-Viva/projetos.html
+
 ---
 
 ## 📘 Contexto
