@@ -23,6 +23,7 @@ Desenvolver uma **plataforma web completa** que permita às ONGs:
 
 ## 🧩 Estrutura do Projeto
 
+```
 ONG/
 ├── css/
 │ └── style.css
@@ -35,6 +36,8 @@ ONG/
 ├── cadastro.html
 ├── index.html
 └── projetos.html
+
+```
 
 
 ---
